@@ -3,9 +3,11 @@
   Hi, I'm Abut-sys!
 </h1>
 
+<img src="img/Amor%20booleano___.gif" alt="Animated Header" width="100%">
+
 <!-- Header dengan foto profil dan kontak -->
 <div align="center">
-  <img src="img/Amor%20booleano___.gif" alt="Animated Header" width="100%">
+  
   
 
   <!-- Kontak dengan ikon visual -->
