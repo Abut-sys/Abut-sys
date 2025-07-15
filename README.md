@@ -7,7 +7,8 @@
   <img src="img/Amor%20booleano___.gif" alt="Animated Header" width="100%" />
 
   <!-- Typing Quote -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=FF79C6&center=true&vCenter=true&width=600&lines=%22there+is+only+one+handsome+man+namely%22;%E2%80%93Something Abut" alt="Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=FF79C6&center=true&vCenter=true&width=600&lines=There+is+only+one+handsome+man,+namely+me+-+Abut" alt="Quote" />
+
 
   <!-- Kontak dengan ikon -->
   <p>
